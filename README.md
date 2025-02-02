@@ -1,5 +1,5 @@
 
-***S102. Exceptions - Ejercicio1 Nivel 2 ***
+***S102. Exceptions - Ejercicio1 Nivel 2***
 
 Crea una clase llamada "Entrada". Esta clase debe servir para controlar las distintas excepciones que pueden aparecer en Java a la hora de introducir datos por teclado utilizando la clase Scanner.
 Lo primero que debe hacerse es instanciar un objeto de la clase Scanner ya partir de ahí, crear métodos estáticos para leer los diferentes tipos de datos desde el teclado. 
